@@ -1,54 +1,76 @@
-## Hi there 👋
-
-<!--
-**anggitsutrisno/anggitsutrisno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=anggitsutrisno&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true&theme=dark"/>
-  <p align="right">
-    <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-GIT-F05032?style=flat-square&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-NODEJS-339933?style=flat-square&logo=nodejs&logoColor=white"/>
-  </p>
+<!-- ===================== BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Anggit%20Sutrisno&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<br clear="both"/>
+<!-- ===================== TYPING ANIMATION ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=IT+Student;Software+Developer;Python+%7C+Java+%7C+OpenCV;Building+Real+World+Projects;Always+Learning+New+Things+🚀" />
+</p>
 
 ---
 
+<!-- ===================== STATS ===================== -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anggitsutrisno&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggitsutrisno&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+## 🚀 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,flutter,mysql,git,github,opencv" />
+</p>
+
+---
+
+<!-- ===================== ABOUT ===================== -->
 ## 👋 About Me
 
-🧑‍💻 I'm **Anggit Sutrisno**, IT Student | Software Developer.<br/>
-💼 Based in **Batam, Indonesia**, working at **nothing**.<br/>
-🌱 Currently learning: **RFID System Development, Computer Vision, OpenCV, Flutter**<br/>
-💬 Ask me about: **Python, Java, Image Processing, Web Development**<br/>
-⚡ Fun fact: I love coding and building useful applications 🚀
+- 🧑‍💻 I'm **Anggit Sutrisno**
+- 📍 Based in **Batam, Indonesia**
+- 🎓 IT Student focused on Software Development
+- 🔬 Currently learning:
+  - RFID System Development
+  - Computer Vision & OpenCV
+  - Flutter App Development
+- 💬 Ask me about:
+  - Python, Java, Image Processing
+  - Web Development
+- ⚡ Fun fact:
+  > I enjoy turning ideas into real applications 💡
 
 ---
 
-## 📫 Contact
+<!-- ===================== CONTACT ===================== -->
+## 🌐 Connect with Me
 
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anggitsutrisno.github.io/protofolio/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anggitsutrisno9@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anggitsutrisno)
+<p align="center">
+  <a href="https://anggitsutrisno.github.io/protofolio/">
+    <img src="https://img.shields.io/badge/Portfolio-00C9FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="mailto:anggitsutrisno9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF4B2B?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/anggitsutrisno">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
----
+<!-- ===================== ACTIVITY ===================== -->
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anggitsutrisno&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anggitsutrisno&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+<!-- ===================== FOOTER WAVE ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>

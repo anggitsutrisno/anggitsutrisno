@@ -3,23 +3,17 @@
 <!-- ===================================================== -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Anggit%20Sutrisno&fontSize=48&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20|%20Backend%20Developer%20|%20IT%20Support&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Anggit%20Sutrisno&fontSize=48&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20|%20Backend%20Developer%20|%20IT%20Support&descAlignY=55"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&weight=600&pause=1000&duration=3500&center=true&vCenter=true&width=800&color=00F7FF&lines=Software+Engineer;Backend+Developer;IT+Support;PHP+%7C+Python+%7C+Node.js;RFID+%26+Computer+Vision+Developer;Always+Learning+New+Technologies+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Software+Engineer;Backend+Developer;PHP+%7C+Python+%7C+Node.js;RFID+%26+Computer+Vision+Developer;Always+Learning+New+Technologies+🚀"/>
 </p>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=anggitsutrisno&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
-
-<img src="https://img.shields.io/github/followers/anggitsutrisno?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/anggitsutrisno?affiliations=OWNER&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/last-commit/anggitsutrisno/belajar-software-engineer?style=for-the-badge"/>
-
+  <img src="https://komarev.com/ghpvc/?username=anggitsutrisno&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
+  <img src="https://img.shields.io/github/followers/anggitsutrisno?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/anggitsutrisno?affiliations=OWNER&style=for-the-badge"/>
 </p>
 
 ---
@@ -28,26 +22,26 @@
 
 ### 💻 Software Engineer | Backend Developer | IT Support
 
-I am passionate about building modern software solutions that solve real-world problems through backend development, automation, artificial intelligence, computer vision, and RFID technologies.
+I am passionate about building modern software solutions that solve real-world problems through backend development, warehouse automation, RFID technology, computer vision, and artificial intelligence.
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 - 🎓 Informatics Engineering Student
 - 📍 Batam, Indonesia
-- 💼 Interested in Backend Software Engineering
-- 🌱 Currently learning Laravel, Node.js, Cloud Computing, and Python AI
-- 🤖 Building AI, Computer Vision, Barcode & RFID Systems
-- 💡 Love solving real-world business problems with technology
-- 🚀 Always improving my coding skills every day
+- 💼 Aspiring Backend Software Engineer
+- 🌱 Currently learning Laravel, Node.js, Python AI, Docker, and Cloud Computing
+- 🤖 Interested in AI, Computer Vision, RFID, and Warehouse Management Systems
+- 💡 Passionate about solving real-world business problems with technology
+- 🚀 Always learning and improving every day
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 - Backend Development
-- REST API Development
+- REST API
 - Laravel Framework
 - Node.js & Express
 - Python Automation
@@ -63,7 +57,7 @@ I am passionate about building modern software solutions that solve real-world p
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,php,python,nodejs,java,mysql,git,github,vscode,opencv,flutter,linux,docker,postman&perline=6"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,php,python,nodejs,java,mysql,git,github,vscode,opencv,flutter,docker,linux,postman&perline=6"/>
 
 </p>
 
@@ -72,12 +66,14 @@ I am passionate about building modern software solutions that solve real-world p
 # 🛠 Development Tools
 
 | Category | Technology |
-|----------|------------|
-| Backend | PHP, Node.js, Laravel |
-| Frontend | HTML, CSS, JavaScript, Bootstrap |
+|-----------|------------|
+| Backend | PHP, Laravel, Node.js |
+| Frontend | HTML, CSS, JavaScript, Bootstrap, Tailwind CSS |
 | Database | MySQL, MariaDB |
 | AI | Python, OpenCV, YOLO |
-| Tools | Git, GitHub, VS Code, Postman |
+| Version Control | Git, GitHub |
+| IDE | Visual Studio Code |
+| API Testing | Postman |
 | Hardware | RFID, Barcode Scanner |
 
 ---
@@ -85,37 +81,37 @@ I am passionate about building modern software solutions that solve real-world p
 # 📚 Currently Learning
 
 ```text
-███████████████████░░░ Laravel
-██████████████████░░░ Node.js
-████████████████░░░░░ Docker
-███████████████░░░░░░ Cloud
-██████████████████░░░ Python AI
-█████████████████░░░░ Computer Vision
+████████████████████░ Laravel
+███████████████████░░ Node.js
+██████████████████░░░ Docker
+█████████████████░░░░ Cloud Computing
+████████████████████░ Python AI
+███████████████████░░ Computer Vision
+```
 
 ---
 
-💼 Professional Interests
+## 💼 Professional Interests
 
 - Backend Engineering
 - Enterprise Applications
 - Warehouse Management System
-- Inventory Automation
-- Computer Vision
-- Artificial Intelligence
 - RFID Technology
-- Barcode System
-- REST API
+- Barcode Automation
+- Artificial Intelligence
+- Computer Vision
+- REST API Development
 - Database Design
-- Software Architecture
+- Cloud Computing
 
 ---
 # 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=anggitsutrisno&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anggitsutrisno&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggitsutrisno&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggitsutrisno&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -145,7 +141,7 @@ I am passionate about building modern software solutions that solve real-world p
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anggitsutrisno&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anggitsutrisno&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -177,59 +173,84 @@ I am passionate about building modern software solutions that solve real-world p
 
 ---
 
-# 🎯 2026 Roadmap
+# 🎯 Learning Roadmap 2026
 
-| Goal | Status |
-|------|--------|
-| ✅ HTML & CSS | Completed |
-| ✅ JavaScript Fundamentals | Completed |
-| 🔄 PHP Advanced | In Progress |
-| 🔄 Laravel Framework | In Progress |
-| 🔄 Node.js Backend | In Progress |
-| 🔄 REST API Development | In Progress |
-| 🔄 Docker | Learning |
-| 🔄 Cloud Deployment | Learning |
-| 🎯 Become Backend Software Engineer | Target |
+| Technology | Progress |
+|------------|:--------:|
+| HTML & CSS | ✅ |
+| JavaScript | ✅ |
+| Git & GitHub | ✅ |
+| PHP | 🟡 |
+| Laravel | 🟡 |
+| Node.js | 🟡 |
+| Python | 🟢 |
+| MySQL | 🟢 |
+| REST API | 🟡 |
+| Docker | 🔵 |
+| Cloud Computing | 🔵 |
 
----
-
-# 📖 Current Learning
-
-- 🚀 Backend Development
-- ⚙️ Software Architecture
-- 🔗 RESTful API
-- 🗄️ Database Optimization
-- 🤖 Python Automation
-- 👁️ OpenCV & YOLO
-- 📡 RFID Integration
-- ☁️ Cloud Computing
-- 🐳 Docker
-- 🔐 Authentication & Security
+> **Legend:**  
+> ✅ Completed • 🟢 Good • 🟡 In Progress • 🔵 Learning
 
 ---
 
-# 🎯 Career Objective
+# 💼 Career Objective
 
-> Become a professional **Backend Software Engineer** who builds scalable, secure, and high-performance applications while contributing to impactful technology solutions.
+> To become a **Professional Backend Software Engineer** by building scalable, secure, and efficient applications that solve real-world business challenges.
+
+---
+
+# 🚀 What I'm Working On
+
+- 🚗 **BarTagX** — Warehouse Management System with RFID & Barcode
+- 📄 **SendCV** — Automatic CV Submission Platform
+- 🤖 **Smart Vision System** — YOLO & OpenCV Object Detection
+- 💻 **Belajar Software Engineer** — Daily Learning Repository
+
+---
+
+# 📖 Currently Exploring
+
+- ⚡ Laravel Best Practices
+- 🚀 Express.js & Node.js
+- 🐳 Docker Fundamentals
+- ☁️ Cloud Deployment
+- 🔐 Authentication (JWT & OAuth)
+- 📦 Clean Architecture
+- 🧩 Design Patterns
+- 🤖 AI & Computer Vision
+
+---
 # 🚀 Featured Projects
 
 ## 🚗 BarTagX
-### Warehouse Management System using RFID & Barcode
+### Warehouse Management System with RFID & Barcode
 
-A warehouse automation system designed to improve inventory accuracy and efficiency using Barcode and RFID technology.
+A warehouse automation system designed to improve inventory accuracy and efficiency using **Barcode**, **RFID**, and **real-time tracking**.
 
-### ✨ Features
+### ✨ Key Features
 - 📦 Warehouse IN / OUT
 - 🏷 Barcode Generator
 - 📡 RFID Binding
 - 📊 Dashboard & Reports
 - 🔍 Unit Tracking
-- 👤 User Management
+- 👥 User Management
 
 **Tech Stack**
 
 <p>
 <img src="https://skillicons.dev/icons?i=php,mysql,js,html,css"/>
+</p>
+
+> 📌 Replace `BarTagX` below with your actual repository name if it's different.
+
+<p align="center">
+
+<a href="https://github.com/anggitsutrisno/BarTagX">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anggitsutrisno&repo=BarTagX&theme=tokyonight"/>
+
+</a>
+
 </p>
 
 ---
@@ -238,15 +259,15 @@ A warehouse automation system designed to improve inventory accuracy and efficie
 
 ### Automatic CV Submission Platform
 
-A web application that automatically sends CVs to recruiters by extracting job vacancy information.
+Automatically sends CVs to recruiters using OCR and email automation.
 
-### ✨ Features
+### ✨ Key Features
 
 - 📧 Automatic Email Sender
-- 📄 OCR Job Vacancy Detection
+- 📄 OCR Vacancy Detection
 - 📂 CV Management
 - 📊 Email Tracking
-- 🔐 Login Authentication
+- 🔐 Authentication
 
 **Tech Stack**
 
@@ -254,17 +275,28 @@ A web application that automatically sends CVs to recruiters by extracting job v
 <img src="https://skillicons.dev/icons?i=php,nodejs,mysql"/>
 </p>
 
+> 📌 Replace `SendCV` below with your actual repository name if needed.
+
+<p align="center">
+
+<a href="https://github.com/anggitsutrisno/SendCV">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anggitsutrisno&repo=SendCV&theme=tokyonight"/>
+
+</a>
+
+</p>
+
 ---
 
 ## 🤖 Smart Vision System
 
-### AI Object Detection Platform
+### AI Object Detection using YOLO & OpenCV
 
-Computer Vision application capable of detecting objects using YOLO and OpenCV in real time.
+Computer Vision application capable of detecting objects from cameras, images, and videos.
 
-### ✨ Features
+### ✨ Key Features
 
-- 🎥 Live Camera Detection
+- 🎥 Live Detection
 - 📷 Image Detection
 - 🎬 Video Detection
 - 📈 Detection Statistics
@@ -276,13 +308,24 @@ Computer Vision application capable of detecting objects using YOLO and OpenCV i
 <img src="https://skillicons.dev/icons?i=python,opencv,flask"/>
 </p>
 
+> 📌 Replace `SmartVisionSystem` below with your actual repository name if needed.
+
+<p align="center">
+
+<a href="https://github.com/anggitsutrisno/SmartVisionSystem">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anggitsutrisno&repo=SmartVisionSystem&theme=tokyonight"/>
+
+</a>
+
+</p>
+
 ---
 
 ## 💻 Belajar Software Engineer
 
-Personal repository documenting my journey from HTML to becoming a Backend Software Engineer.
+Documenting my journey to becoming a professional Backend Software Engineer.
 
-### Learning Topics
+### Topics
 
 - HTML
 - CSS
@@ -295,19 +338,30 @@ Personal repository documenting my journey from HTML to becoming a Backend Softw
 - MySQL
 - REST API
 
+<p align="center">
+
+<a href="https://github.com/anggitsutrisno/belajar-software-engineer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anggitsutrisno&repo=belajar-software-engineer&theme=tokyonight"/>
+
+</a>
+
+</p>
+
 ---
 
 # 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/anggitsutrisno/anggitsutrisno/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
+> ⚠️ Snake akan tampil setelah kamu mengaktifkan GitHub Actions untuk membuat file SVG secara otomatis.
+
 ---
 
-# 💬 Random Developer Quote
+# 💬 Developer Quote
 
 <p align="center">
 
@@ -317,47 +371,54 @@ Personal repository documenting my journey from HTML to becoming a Backend Softw
 
 ---
 
-# 🏅 GitHub Achievements
+# 🏅 Highlights
 
-- 🚀 Open Source Learner
-- 💻 Backend Development Enthusiast
-- 🤖 Computer Vision Developer
-- 📡 RFID System Developer
-- 📦 Warehouse Automation Developer
-- 🌱 Continuous Learner
-
----
-
-# 📈 Development Philosophy
-
-> "Great software is built through continuous learning, clean code, and solving real-world problems."
+- 🚀 Backend Development
+- 🤖 Artificial Intelligence
+- 👁️ Computer Vision
+- 📡 RFID Technology
+- 📦 Warehouse Automation
+- 🌐 Web Application Development
+- 🔗 REST API
+- 🗄️ Database Design
 
 ---
 
+# 💡 Development Philosophy
 
+> "Code with purpose. Learn continuously. Build solutions that create real impact."
+
+---
 # 🎯 Goals 2026
 
 - ✅ Become a Professional Backend Software Engineer
 - 🚀 Master Laravel Framework
-- 🚀 Master Node.js & Express
-- 🚀 Master REST API Development
-- 🤖 Build AI & Computer Vision Applications
-- 📡 Develop Enterprise RFID & Barcode Systems
+- 🚀 Master Node.js & Express.js
+- 🚀 Build Enterprise Web Applications
+- 🤖 Develop AI & Computer Vision Solutions
+- 📡 Build RFID & Barcode Automation Systems
 - ☁️ Learn Docker & Cloud Deployment
 - 🌍 Contribute to Open Source Projects
-- 📚 Continuously Improve Problem Solving Skills
+- 📚 Never Stop Learning
 
 ---
 
 # 🏅 Certifications & Learning
 
-Currently learning through:
+Currently improving my skills through:
 
-- 📘 Universitas Putera Batam
-- 💻 Self-Learning Projects
-- 🌐 Open Source Documentation
+- 🎓 Universitas Putera Batam
+- 📘 Official Documentation
+- 💻 Personal Projects
+- 🌐 Open Source Projects
 - 🎥 Online Courses
-- 📖 Official Documentation
+- 📖 Technical Books
+
+---
+
+# 📈 GitHub Activity
+
+> 💡 I believe consistency is more important than intensity. Every commit is a step toward becoming a better software engineer.
 
 ---
 
@@ -388,51 +449,49 @@ Currently learning through:
 # 💡 Fun Fact
 
 ```text
-💻 I enjoy building real-world software solutions.
-🚀 Every project is an opportunity to learn something new.
-📚 Learning never stops.
-☕ Coffee + Code = Productivity
+💻 I love building software that solves real-world problems.
+🚀 Learning by building real projects.
+📚 Continuous learning is my mindset.
+☕ Coffee + Code + Curiosity = Growth
 ```
 
 ---
 
 # 📊 Profile Highlights
 
-- 💻 Backend Development
-- 🌐 Web Application Development
-- 🤖 Artificial Intelligence
-- 👁️ Computer Vision
-- 📡 RFID Technology
-- 📦 Warehouse Automation
-- 🗄️ Database Design
-- 🔗 REST API Development
+| Area | Focus |
+|------|-------|
+| 💻 Backend | Laravel, PHP, Node.js |
+| 🤖 AI | Python, OpenCV, YOLO |
+| 🗄️ Database | MySQL, MariaDB |
+| 📡 Automation | RFID, Barcode |
+| 🌐 Web | HTML, CSS, JavaScript |
+| 🔧 Tools | Git, GitHub, Docker |
 
 ---
 
-# ⭐ If you like my projects
+# ⭐ Support My Work
 
-<p align="center">
+If you find my projects useful, please consider:
 
-Give a ⭐ to my repositories and follow my GitHub profile!
+⭐ Starring my repositories
 
-</p>
+👤 Following my GitHub profile
 
----
-
-# ☕ Support
-
-<p align="center">
-
-<a href="https://github.com/anggitsutrisno">
-<img src="https://img.shields.io/badge/Follow%20Me-GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
+🤝 Connecting with me on LinkedIn
 
 ---
 
 <p align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient"/>
+
+</p>
+
+<p align="center">
+
+### Thanks for visiting my profile ❤️
+
+*"Keep learning, keep building, and never stop improving."*
 
 </p>
